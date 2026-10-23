@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ApiCreditoAmbar PHP API
 
 This project reconstructs the original `ApiCreditoAmbar` backend in pure PHP without frameworks, preserving the documented HTTP JSON contracts and the JWT-style authorization flow expected by the React frontend.
@@ -74,3 +75,6 @@ This project reconstructs the original `ApiCreditoAmbar` backend in pure PHP wit
 
 - JWT-style tokens are generated and validated with a shared secret.
 - Authorization headers are accepted as `Authorization: Bearer <token>` and the role is also read from `X-Auth-Role`.
+=======
+# apicreditoambar_v2
+>>>>>>> origin/main
