@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../react/creditoambar"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"chat.tools.terminal.autoApprove": {
+			"New-Item": true,
+			"Out-Null": true
+		}
+	}
+}

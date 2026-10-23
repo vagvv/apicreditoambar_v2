@@ -1,0 +1,5 @@
+.env
+.env.local
+/storage/*.json
+/vendor/
+.DS_Store
